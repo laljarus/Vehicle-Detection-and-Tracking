@@ -8,3 +8,4 @@
 |output_images| Folder containing ouput test images|
 |svc_pickle.p|Pickle file containing the parameters and classifier|
 |VehicleDetection_pipeline.html|Html format of the jupyter notebook|
+|lesson_functions.py| Functions from the lecture used in the project|
